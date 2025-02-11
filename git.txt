@@ -1,0 +1,7 @@
+1 - git init
+2 - git branch -m master main
+3 - git remote add origin URL
+4 - git add . 
+5 - git commit -m "alguma coisa"
+6 - git branch -m master main
+7 - git push origin main
